@@ -6,7 +6,7 @@ namespace GitTest2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this comes  abc form tom222");
+            Console.WriteLine("this comes  abc form tom222eee");
             Console.WriteLine("this is tom main");
             Console.WriteLine("this is tom2");
             Console.WriteLine("my name is tangyanchun");

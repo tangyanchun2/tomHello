@@ -9,6 +9,7 @@ namespace GitTest2
             Console.WriteLine("my name is tangyanchun");
             Console.WriteLine("test 2");
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
